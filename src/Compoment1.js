@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './component1.css'
 function Compoment1() {
   return (
     <div className='component1'>
