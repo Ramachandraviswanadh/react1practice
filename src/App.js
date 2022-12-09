@@ -3,6 +3,7 @@ import './App.css';
 import Compoment1 from './Compoment1';
 import Compoment2 from './Component2';
 
+
 function App() {
   return (
     <div className="App">
@@ -11,6 +12,7 @@ function App() {
        <Compoment1/>
        <Compoment2/>
        <Compoment2/>
+       
     </div>
   );
 }
